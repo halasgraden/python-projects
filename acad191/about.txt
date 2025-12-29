@@ -1,0 +1,1 @@
+These are two projects in my "Python for Machine Intelligence" class. Both projects involve cleaning/prepping data and using Python libraries and machine learning models to analyze and draw insights from the data.
